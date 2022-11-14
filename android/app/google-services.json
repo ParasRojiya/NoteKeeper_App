@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944119020542",
+    "project_id": "notekeeper-67ab7",
+    "storage_bucket": "notekeeper-67ab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944119020542:android:aa83ec58cd760428889eaf",
+        "android_client_info": {
+          "package_name": "com.rparas.notekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944119020542-edefdngfqc30vj9m38joctrh6jvms3d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rparas.notekeeper",
+            "certificate_hash": "c3a9377677429e7b7c2ef5d765be1b885d063e6f"
+          }
+        },
+        {
+          "client_id": "944119020542-aaqasg831qfverfa1lcof972d1ig859o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMF-HUI0MYzkenbiPZRo4bZiMU0KjM_nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944119020542-aaqasg831qfverfa1lcof972d1ig859o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
